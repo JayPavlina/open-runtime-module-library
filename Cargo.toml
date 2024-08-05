@@ -47,6 +47,7 @@ pallet-message-queue = { git = "https://github.com/paritytech/polkadot-sdk.git",
 pallet-preimage = { git = "https://github.com/paritytech/polkadot-sdk.git", branch = "release-polkadot-v1.10.1", default-features = false }
 pallet-root-testing = { git = "https://github.com/paritytech/polkadot-sdk.git", branch = "release-polkadot-v1.10.1", default-features = false }
 pallet-scheduler = { git = "https://github.com/paritytech/polkadot-sdk.git", branch = "release-polkadot-v1.10.1", default-features = false }
+pallet-timestamp = { git = "https://github.com/paritytech/polkadot-sdk.git", branch = "release-polkadot-v1.10.1", default-features = false }
 pallet-treasury = { git = "https://github.com/paritytech/polkadot-sdk.git", branch = "release-polkadot-v1.10.1", default-features = false }
 pallet-xcm = { git = "https://github.com/paritytech/polkadot-sdk.git", branch = "release-polkadot-v1.10.1", default-features = false }
 polkadot-parachain-primitives = { git = "https://github.com/paritytech/polkadot-sdk.git", branch = "release-polkadot-v1.10.1", default-features = false }
